@@ -11,4 +11,5 @@ hot-fix's  modify
 modify at github
 
 by space2
-使用 ssh
+使用 ssh拉取
+使用 ssh推送
