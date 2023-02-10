@@ -11,3 +11,4 @@ hot-fix's  modify
 modify at github
 
 by space2
+使用 ssh
